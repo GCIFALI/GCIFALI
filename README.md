@@ -12,7 +12,7 @@
 
   </p>
   
-  ### 📚 • Back-End Developer & Future Full-Stack Developer
+  ### 📚 • Full-Stack Developer
   
  
  <br>
