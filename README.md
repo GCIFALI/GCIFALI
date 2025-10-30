@@ -77,8 +77,6 @@ I'm <strong>Guilherme Cifali</strong> from <strong>SÃ£o Paulo, Brazil</strong> ð
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GCIFALI&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=GCIFALI&show_icons=true&theme=dark&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCIFALI&layout=compact&theme=dark&hide_border=true" height="160" />
 </div>
